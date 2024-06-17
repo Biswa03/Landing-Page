@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --regular-14: Roboto;
+  
+    /* font sizes */
+    --regular-14-size: 0.875rem;
+    --medium-12-size: 0.75rem;
+    --bold-26-size: 1.625rem;
+    --regular-16-size: 1rem;
+    --medium-50-size: 3.125rem;
+    --font-size-21xl: 2.5rem;
+    --font-size-11xl: 1.875rem;
+    --medium-36-size: 2.25rem;
+    --font-size-10xl: 1.813rem;
+    --font-size-3xl: 1.375rem;
+    --regular-18-size: 1.125rem;
+  
+    /* Colors */
+    --colour-secondary-white-100-general: #fff;
+    --color-lavender: #e7ecff;
+    --colour-main-blue-300: #929ecc;
+    --colour-logo-primary: #37447e;
+    --colour-main-blue-700: #222f65;
+    --colour-main-blue-800: #111b47;
+    --colour-main-grey-400: #939ea4;
+    --colour-main-grey-600: #5d6970;
+    --colour-main-blue-400: #6f7cb2;
+    --colour-main-blue-500: #505f98;
+    --colour-main-blue-900: #091133;
+  
+    /* Gaps */
+    --gap-21xl: 2.5rem;
+    --gap-xl: 1.25rem;
+    --gap-lgi: 1.187rem;
+    --gap-base: 1rem;
+    --gap-11xl: 1.875rem;
+    --gap-mini: 0.937rem;
+    --gap-sm: 0.875rem;
+    --gap-7xs: 0.375rem;
+    --gap-15xl: 2.125rem;
+  
+    /* Paddings */
+    --padding-xl: 1.25rem;
+    --padding-9xs: 0.25rem;
+    --padding-7xs: 0.375rem;
+    --padding-58xl: 4.812rem;
+    --padding-146xl: 10.312rem;
+    --padding-63xl: 5.125rem;
+    --padding-22xl: 2.562rem;
+  
+    /* Border radiuses */
+    --br-11xs: 2px;
+  }
